@@ -25,11 +25,23 @@ I often use AI as part of my problem-solving process, helping me learn faster an
 ![My Skills](https://skillicons.dev/icons?i=unity,cs,figma,theme=light)
 
 ##### Connect with Me
-![https://www.linkedin.com/in/dandifonnasaputra/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/___dandisaputra/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<div align="left">
+  <a href="https://www.linkedin.com/in/dandifonnasaputra/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="dandifonnasaputra@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/___dandisaputra/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="58" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
-😄 Pronouns: He/Him
-🌱 I’m currently learning **Augmented Reality** in [**Unity**](https://unity.com/)
-💬 Ask me about Unity, AR Foundation, Vuforia, ARCore
-📫 How to reach me: dandifonnasaputra@gmail.com
+###
+
+😄 Pronouns: He/Him <br>
+🌱 I’m currently learning **Augmented Reality** in [**Unity**](https://unity.com/) <br>
+💬 Ask me about Unity, AR Foundation, Vuforia, ARCore <br>
+📫 How to reach me: dandifonnasaputra@gmail.com <br>
 
 <img src="https://raw.githubusercontent.com/dandiFsaputra/dandiFsaputra/output/snake.svg" alt="Snake animation" />
