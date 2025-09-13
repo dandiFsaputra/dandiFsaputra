@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World 👋 I'm Dandi Fonna Saputra
 
 <!--
 **dandiFsaputra/dandiFsaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I have a strong interest in Unity and Augmented Reality (AR), and I really enjoy experimenting with creative ideas through technology. I love trying out new things.
+
+I often use AI as part of my problem-solving process, helping me learn faster and discover creative solutions.
+
+😄 Pronouns: He/Him
+🌱 I’m currently learning **Augmented Reality** in [**Unity**](https://unity.com/)
+💬 Ask me about Unity, AR Foundation, Vuforia, ARCore
+📫 How to reach me: dandifonnasaputra@gmail.com
