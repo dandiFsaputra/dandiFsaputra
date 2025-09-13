@@ -41,7 +41,7 @@ I often use AI as part of my problem-solving process, helping me learn faster an
 
 😄 Pronouns: He/Him <br>
 🌱 I’m currently learning **Augmented Reality** in [**Unity**](https://unity.com/) <br>
-💬 Ask me about Unity, AR Foundation, Vuforia, ARCore <br>
+💬 Ask me about [**Unity**](https://unity.com/), [**AR Foundation**](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@6.3/manual/index.html), [**Vuforia**](https://www.bing.com/ck/a?!&&p=ec20e3bec36902c36bff194e4cafe1e751cae6fd9a636e9ceb82a24b64d4a498JmltdHM9MTc1NzcyMTYwMA&ptn=3&ver=2&hsh=4&fclid=0d2288ed-acc3-6c8a-0d22-9ed3ad866d2e&psq=vuforia&u=a1aHR0cHM6Ly9kZXZlbG9wZXIudnVmb3JpYS5jb20vaG9tZQ), [**ARCore**](https://developers.google.com/ar) <br>
 📫 How to reach me: dandifonnasaputra@gmail.com <br>
 
 <img src="https://raw.githubusercontent.com/dandiFsaputra/dandiFsaputra/output/snake.svg" alt="Snake animation" />
