@@ -1,5 +1,8 @@
 ## Hello World 👋 I'm Dandi Fonna Saputra
 
+![dandi fonna saputra](img/github-header-banner.png)
+
+
 <!--
 **dandiFsaputra/dandiFsaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
